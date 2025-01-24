@@ -1,2 +1,2 @@
 # InternPe_AI-ML_Projects
-Internship projects for InternPe .
+This repository contains AI/ML internship projects for InternPe .
