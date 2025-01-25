@@ -80,7 +80,7 @@ The goal of this project is to build a classification model that accurately pred
 <br>
 :) Generated a **confusion matrix** : [[83, 17], [26, 28]].
 <br>
-Produced a detailed **classification report:**
+:) Produced a detailed **classification report:**
 <br>
 **Precision:** 0.76 (class 0), 0.62 (class 1)
 <br>
