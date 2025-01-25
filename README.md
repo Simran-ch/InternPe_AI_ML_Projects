@@ -27,24 +27,7 @@ The dataset includes features such as:
 <br>
 
 
-This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on variables :
-<br>
-<> Pregnancies
-<br>
-<> Glucose
-<br>
-<> BloodPressure
-<br>
-<> SkinThickness
-<br>
-<> Insulin
-<br>
-<> BMI
-<br>
-<> DiabetesPedigreeFunction
-<br>
-<> Age 
-<br>
+This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on various factors.
 
 **Project Overview :**
 <br>
