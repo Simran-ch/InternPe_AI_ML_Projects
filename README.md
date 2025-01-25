@@ -27,7 +27,7 @@ The dataset includes features such as:
 <br>
 
 
-This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on various factors.
+This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on various features present in **𝐏𝐢𝐦𝐚 𝐈𝐧𝐝𝐢𝐚𝐧𝐬 𝐃𝐢𝐚𝐛𝐞𝐭𝐞𝐬 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞**.
 
 **Project Overview :**
 <br>
