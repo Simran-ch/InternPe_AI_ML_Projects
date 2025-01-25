@@ -82,7 +82,7 @@ The goal of this project is to build a classification model that accurately pred
 <br>
 :) Produced a detailed **classification report:**
 <br>
-> **Precision:** 0.76 (class 0), 0.62 (class 1)
+   **Precision:** 0.76 (class 0), 0.62 (class 1)
 <br>
 **Recall:** 0.83 (class 0), 0.52 (class 1)
 <br>
