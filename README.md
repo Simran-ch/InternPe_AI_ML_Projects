@@ -5,9 +5,14 @@ This repository contains projects completed during my internship at InternPe. Be
 ## Project 1: Diabetes Prediction with ML
 <br>
 
-**Dataset**: I used the **𝐏𝐢𝐦𝐚 𝐈𝐧𝐝𝐢𝐚𝐧𝐬 𝐃𝐢𝐚𝐛𝐞𝐭𝐞𝐬 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞** (In particular, all patients here are females at least 21 years old of Pima Indian heritage) available on Kaggle.
+**Dataset**: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 <br>
-The dataset includes features such as:
+
+(In particular, all patients in this dataset are females at least 21 years old of Pima Indian heritage) 
+
+
+
+This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on various features such as a;
 <br>
 :) Pregnancies
 <br>
@@ -25,9 +30,6 @@ The dataset includes features such as:
 <br>
 :) Age 
 <br>
-
-
-This project is part of my internship at InternPe, where I implemented Support Vector Machine Classifier to predict whether a patient is diabetic or non-diabetic based on various features present in **𝐏𝐢𝐦𝐚 𝐈𝐧𝐝𝐢𝐚𝐧𝐬 𝐃𝐢𝐚𝐛𝐞𝐭𝐞𝐬 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞**.
 
 **Project Overview :**
 <br>
