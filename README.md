@@ -31,7 +31,7 @@ This project is part of my internship at InternPe, where I implemented Support V
 
 **Project Overview :**
 <br>
-The goal of this project is to build a classification model that accurately predicts whether a patient is diabetic or non-diabetic based on various factors (i mention above). 
+The goal of this project is to build a classification model that accurately predicts whether a patient is diabetic or non-diabetic based on various factors (as i mentioned above). 
 <br>
 
 **Tools Used :**
