@@ -113,7 +113,7 @@ Role: Artificial Intelligence and Machine Learning Intern at InternPe
 <br>
 **LinkedIn**: https://www.linkedin.com/in/simran-chaudhary-5533b7308/
 <br>
-**GitHub**: 
+**GitHub**: https://github.com/Simran-ch
 <br>
 
 ## Conclusion
