@@ -182,6 +182,9 @@ The goal of this project is to build a CAR price predictor model that accurately
 ## Project 3: IPL WINNING TEAM PREDICTION
 <br>
 
+**Dataset** : https://www.kaggle.com/datasets/yuvrajdagur/ipl-dataset-season-2008-to-2017
+<br>
+
 This project is part of my internship at InternPe, where i implemented various machine learning models to predict the winning team in an IPL based on key features :
 <br>
 
@@ -301,6 +304,7 @@ Trained multiple machine learning models for prediction:
 
 **Results**:
 <br>
+
 **Decision Tree Regressor**
 <br>
 :) Train Score : 99.99%
