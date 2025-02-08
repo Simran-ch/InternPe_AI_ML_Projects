@@ -177,38 +177,53 @@ The goal of this project is to build a CAR price predictor model that accurately
 
 
 
+
+
 ## Project 3: IPL WINNING TEAM PREDICTION
 <br>
-This project is part of my internship at **InternPe**, where i implemented various machine learning models to predict the winning team in an IPL based on key features :
+This project is part of my internship at InternPe, where i implemented various machine learning models to predict the winning team in an IPL based on key features :
 <br>
 :) mid: Unique match id.
 <br>
+
 :) date: Date on which the match was played.
 <br>
+
 :) venue: Stadium where match was played.
 <br>
+
 :) batting_team: Batting team name.
 <br>
+
 :) bowling_team: Bowling team name.
 <br>
+
 :) batsman: Batsman who faced that particular ball.
 <br>
+
 :) bowler: Bowler who bowled that particular ball.
 <br>
+
 :) runs: Runs scored by team till that point of instance.
 <br>
 :) wickets: Number of Wickets fallen of the team till that point of instance.
 <br>
+
 :) overs: Number of Overs bowled till that point of instance.
 <br>
+
 :) runs_last_5: Runs scored in previous 5 overs.
 <br>
+
 :) wickets_last_5: Number of Wickets that fell in previous 5 overs.
 <br>
+
 :) striker: max(runs scored by striker, runs scored by non-striker).
 <br>
+
 :) non-striker: min(runs scored by striker, runs scored by non-striker).
 <br>
+
 :) total: Total runs scored by batting team at the end of first innings.
 <br>
 
