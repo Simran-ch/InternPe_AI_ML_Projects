@@ -301,82 +301,82 @@ Trained multiple machine learning models for prediction:
 
 **Results**:
 <br>
-:) Decision Tree Regressor
+**Decision Tree Regressor**
 <br>
-Train Score : 99.99%
+:) Train Score : 99.99%
 <br>
-Test Score : 85.83%
+:) Test Score : 85.83%
 <br>
-Mean Absolute Error (MAE): 3.980615806532037
+:) Mean Absolute Error (MAE): 3.980615806532037
 <br>
-Mean Squared Error (MSE): 125.66389304412864
+:) Mean Squared Error (MSE): 125.66389304412864
 <br>
-Root Mean Squared Error (RMSE): 11.209990769136638
+:) Root Mean Squared Error (RMSE): 11.209990769136638
  <br>
 
-:) Linear Regression
+**Linear Regression**
 <br>
-Train Score : 65.99%
+:) Train Score : 65.99%
 <br>
-Test Score : 65.62%
+:) Test Score : 65.62%
 <br>
-Mean Absolute Error (MAE): 13.112410435179777
+:) Mean Absolute Error (MAE): 13.112410435179777
 <br>
-Mean Squared Error (MSE): 305.0563257623772
+:) Mean Squared Error (MSE): 305.0563257623772
 <br>
-Root Mean Squared Error (RMSE): 17.465861724013998
+:) Root Mean Squared Error (RMSE): 17.465861724013998
+<br>
+
+**Random Forest Regression**
+<br>
+:) Train Score : 99.07%
+<br>
+:) Test Score : 93.57%
+<br>
+:) Mean Absolute Error (MAE): 4.398791178425996
+<br>
+:) Mean Squared Error (MSE): 56.99923941594296
+<br>
+:) Root Mean Squared Error (RMSE): 7.549784064193026
+<br>
+
+**Lasso Regression**
+<br>
+:) Train Score : 64.95%
+<br>
+:) Test Score : 64.93%
+<br>
+:) Mean Absolute Error (MAE): 13.093065567932516
+<br>
+:) Mean Squared Error (MSE): 311.1276056545018
+<br>
+:) Root Mean Squared Error (RMSE): 17.638809643921604
  <br>
 
-:) Random Forest Regression
+**Support Vector Machine**
 <br>
-Train Score : 99.07%
+:) Train Score : 57.41%
 <br>
-Test Score : 93.57%
+:) Test Score : 57.39%
 <br>
-Mean Absolute Error (MAE): 4.398791178425996
+:) Mean Absolute Error (MAE): 14.635093385154384
 <br>
-Mean Squared Error (MSE): 56.99923941594296
+:) Mean Squared Error (MSE): 378.08184639617673
 <br>
-Root Mean Squared Error (RMSE): 7.549784064193026
-<br>
-
-:) Lasso Regression
-<br>
-Train Score : 64.95%
-<br>
-Test Score : 64.93%
-<br>
-Mean Absolute Error (MAE): 13.093065567932516
-<br>
-Mean Squared Error (MSE): 311.1276056545018
-<br>
-Root Mean Squared Error (RMSE): 17.638809643921604
- <br>
-
-:) Support Vector Machine
-<br>
-Train Score : 57.41%
-<br>
-Test Score : 57.39%
-<br>
-Mean Absolute Error (MAE): 14.635093385154384
-<br>
-Mean Squared Error (MSE): 378.08184639617673
-<br>
-Root Mean Squared Error (RMSE): 19.444326843482568
+:) Root Mean Squared Error (RMSE): 19.444326843482568
 <br>
 
-:) Neural Networks
+**Neural Networks**
 <br>
-Train Score : 85.45%
+:) Train Score : 85.45%
 <br>
-Test Score : 85.99%
+:) Test Score : 85.99%
 <br>
-Mean Absolute Error (MAE): 7.978030236608694
+:) Mean Absolute Error (MAE): 7.978030236608694
 <br>
-Mean Squared Error (MSE): 124.29835286278254
+:) Mean Squared Error (MSE): 124.29835286278254
 <br>
-Root Mean Squared Error (RMSE): 11.148917116150004
+:) Root Mean Squared Error (RMSE): 11.148917116150004
 <br>
 
 **From above results, we can see that Random Forest performed the best, closely followed by Decision Tree and Neural Networks. So we will be choosing Random Forest for the final model**
