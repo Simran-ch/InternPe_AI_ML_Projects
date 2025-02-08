@@ -181,8 +181,10 @@ The goal of this project is to build a CAR price predictor model that accurately
 
 ## Project 3: IPL WINNING TEAM PREDICTION
 <br>
+
 This project is part of my internship at InternPe, where i implemented various machine learning models to predict the winning team in an IPL based on key features :
 <br>
+
 :) mid: Unique match id.
 <br>
 
@@ -206,6 +208,7 @@ This project is part of my internship at InternPe, where i implemented various m
 
 :) runs: Runs scored by team till that point of instance.
 <br>
+
 :) wickets: Number of Wickets fallen of the team till that point of instance.
 <br>
 
