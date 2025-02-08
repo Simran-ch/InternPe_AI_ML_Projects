@@ -178,7 +178,7 @@ The goal of this project is to build a CAR price predictor model that accurately
 
 
 ## Project 3: IPL WINNING TEAM PREDICTION
-
+<br>
 This project is part of my internship at **InternPe**, where i implemented various machine learning models to predict the winning team in an IPL based on key features :
 <br>
 :) mid: Unique match id.
@@ -213,7 +213,9 @@ This project is part of my internship at **InternPe**, where i implemented vario
 <br>
 
 **Project Overview** :
+<br>
 This project focuses on predicting the winning team in an IPL (Indian Premier League) match using machine learning models. The dataset used contains historical IPL match data from 2008 to 2017, which has been cleaned, preprocessed, and analyzed to train various classification models for prediction.
+<br>
 
 
 **Tools Used** :
@@ -221,15 +223,24 @@ Python : For scripting and implementation.
 Google Colab : For writing and running the code in a Jupyter Notebook environment.
 
 **Libraries Used** :
+<br>
 pandas (pd) – For data manipulation and analysis
+<br>
 numpy (np) – For numerical computations
+<br>
 sklearn.model_selection – For splitting the dataset (train_test_split)
+<br>
 sklearn.preprocessing – For encoding categorical data (LabelEncoder) and feature scaling (StandardScaler)
+<br>
 sklearn.linear_model – For implementing linear regression (LinearRegression)
+<br>
 sklearn.metrics – For evaluating model performance (mean_absolute_error, mean_squared_error, r2_score)
+<br>
 
 **Implementation Steps** :
+<br>
 (1) Data Preprocessing:
+<br>
 :) Removed irrelevant columns
 <br>
 :) Filtered only consistent teams (teams that played across seasons)
@@ -240,12 +251,14 @@ sklearn.metrics – For evaluating model performance (mean_absolute_error, mean_
 <br>
 
 (2) Feature Encoding :
+<br>
 :) Label Encoding for categorical variables
 <br>
 :) One-Hot Encoding & Column Transformation for better model performance
 <br>
 
 (3) Model Implementation:
+<br>
 Trained multiple machine learning models for prediction:
 <br>
 :) Decision Tree Regressor
@@ -262,60 +275,91 @@ Trained multiple machine learning models for prediction:
 <br>
 
 (4) Evaluation:
-:) Used metrics like Mean absolute error , Mean squared error , Root mean squared error, R2 score to evaluate model performance.
+<br>
+:) Used metrics like Mean absolute error , Mean squared error , Root mean squared error to evaluate model performance.
 
 **Results**:
+<br>
 :) Decision Tree Regressor
+<br>
 Train Score : 99.99%
+<br>
 Test Score : 85.83%
+<br>
 Mean Absolute Error (MAE): 3.980615806532037
+<br>
 Mean Squared Error (MSE): 125.66389304412864
+<br>
 Root Mean Squared Error (RMSE): 11.209990769136638
  <br>
 
 :) Linear Regression
+<br>
 Train Score : 65.99%
+<br>
 Test Score : 65.62%
+<br>
 Mean Absolute Error (MAE): 13.112410435179777
+<br>
 Mean Squared Error (MSE): 305.0563257623772
+<br>
 Root Mean Squared Error (RMSE): 17.465861724013998
  <br>
 
 :) Random Forest Regression
+<br>
 Train Score : 99.07%
+<br>
 Test Score : 93.57%
+<br>
 Mean Absolute Error (MAE): 4.398791178425996
+<br>
 Mean Squared Error (MSE): 56.99923941594296
+<br>
 Root Mean Squared Error (RMSE): 7.549784064193026
- <br>
+<br>
 
 :) Lasso Regression
+<br>
 Train Score : 64.95%
+<br>
 Test Score : 64.93%
+<br>
 Mean Absolute Error (MAE): 13.093065567932516
+<br>
 Mean Squared Error (MSE): 311.1276056545018
+<br>
 Root Mean Squared Error (RMSE): 17.638809643921604
  <br>
 
 :) Support Vector Machine
+<br>
 Train Score : 57.41%
+<br>
 Test Score : 57.39%
+<br>
 Mean Absolute Error (MAE): 14.635093385154384
+<br>
 Mean Squared Error (MSE): 378.08184639617673
+<br>
 Root Mean Squared Error (RMSE): 19.444326843482568
- <br>
+<br>
 
 :) Neural Networks
+<br>
 Train Score : 85.45%
+<br>
 Test Score : 85.99%
+<br>
 Mean Absolute Error (MAE): 7.978030236608694
+<br>
 Mean Squared Error (MSE): 124.29835286278254
+<br>
 Root Mean Squared Error (RMSE): 11.148917116150004
+<br>
 
- <br>
 **From above results, we can see that Random Forest performed the best, closely followed by Decision Tree and Neural Networks. So we will be choosing Random Forest for the final model**
-
-
+<br>
 
 
 
