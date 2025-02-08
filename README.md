@@ -237,27 +237,30 @@ This project focuses on predicting the winning team in an IPL (Indian Premier Le
 
 
 **Tools Used** :
-Python : For scripting and implementation.
-Google Colab : For writing and running the code in a Jupyter Notebook environment.
+<br>
+**Python** : For scripting and implementation.
+<br>
+**Google Colab** : For writing and running the code in a Jupyter Notebook environment.
+<br>
 
 **Libraries Used** :
 <br>
-pandas (pd) – For data manipulation and analysis
+**pandas (pd)** – For data manipulation and analysis
 <br>
-numpy (np) – For numerical computations
+**numpy (np)** – For numerical computations
 <br>
-sklearn.model_selection – For splitting the dataset (train_test_split)
+**sklearn.model_selection** – For splitting the dataset (train_test_split)
 <br>
-sklearn.preprocessing – For encoding categorical data (LabelEncoder) and feature scaling (StandardScaler)
+**sklearn.preprocessing** – For encoding categorical data (LabelEncoder) and feature scaling (StandardScaler)
 <br>
-sklearn.linear_model – For implementing linear regression (LinearRegression)
+**sklearn.linear_model** – For implementing linear regression (LinearRegression)
 <br>
-sklearn.metrics – For evaluating model performance (mean_absolute_error, mean_squared_error, r2_score)
+**sklearn.metrics** – For evaluating model performance (mean_absolute_error, mean_squared_error, r2_score)
 <br>
 
 **Implementation Steps** :
 <br>
-(1) Data Preprocessing:
+(1) **Data Preprocessing**:
 <br>
 :) Removed irrelevant columns
 <br>
@@ -268,14 +271,14 @@ sklearn.metrics – For evaluating model performance (mean_absolute_error, mean_
 :) Handled missing values and performed feature engineering
 <br>
 
-(2) Feature Encoding :
+(2) **Feature Encoding** :
 <br>
 :) Label Encoding for categorical variables
 <br>
 :) One-Hot Encoding & Column Transformation for better model performance
 <br>
 
-(3) Model Implementation:
+(3) **Model Implementation**:
 <br>
 Trained multiple machine learning models for prediction:
 <br>
@@ -292,7 +295,7 @@ Trained multiple machine learning models for prediction:
 :) Neural Networks
 <br>
 
-(4) Evaluation:
+(4) **Evaluation**:
 <br>
 :) Used metrics like Mean absolute error , Mean squared error , Root mean squared error to evaluate model performance.
 
