@@ -480,7 +480,7 @@ This project aims to detect breast cancer using deep learning techniques. The da
 :) Implementing a Deep Neural Network (DNN) using TensorFlow/Keras
 <br>
 
-(5) **Model architecture**
+(5) **Model architecture**:
 <br>
 
 **Input Layer** (30 neurons)
