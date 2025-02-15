@@ -471,7 +471,7 @@ This project aims to detect breast cancer using deep learning techniques. The da
 :) Implementing a Deep Neural Network (DNN) using TensorFlow/Keras
 <br>
 
-:) **--Model architecture--**
+(5) **--Model architecture--**
 <br>
 **Input Layer** (30 neurons)
 <br>
@@ -479,10 +479,12 @@ This project aims to detect breast cancer using deep learning techniques. The da
 <br>
 **Output Layer** (1 neuron with Sigmoid activation)
 <br>
-:) Compiling the model using Binary Crossentropy Loss and Adam Optimizer
-<br> 
-:) Training the model with multiple epochs and batch size tuning
 
+(6) **Compiling the model** using Binary Crossentropy Loss and Adam Optimizer
+<br> 
+
+(7) **Training the model** with multiple epochs and batch size tuning
+<br> 
  
 **Results**:
 <br>
