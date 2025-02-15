@@ -393,7 +393,7 @@ Trained multiple machine learning models for prediction:
 
 
 
-## Project 4: Breast Cancer Detection
+## Project 4: Breast Cancer Classification with a simple Neural Network (NN)
 <br>
 
 **--Dataset Overview--**
